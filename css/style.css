@@ -1,0 +1,10 @@
+@media (min-width: 768px) {
+    .novosti{
+        width: 50%;
+    }
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
